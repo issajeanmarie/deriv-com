@@ -52,7 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
 
 # gatsby files
 .cache/
@@ -69,13 +68,11 @@ yarn-error.log
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
 
 # VS code
-.vscode/
 .idea/
 
 # WebStorm
@@ -83,3 +80,4 @@ yarn-error.log
 
 #CNAME
 static/CNAME
+config.bat
