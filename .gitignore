@@ -57,8 +57,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
-.env.*
 *.env
 
 # gatsby files
@@ -79,7 +77,6 @@ yarn-error.log
 .next
 
 # VS code
-.vscode/
 .idea/
 
 # WebStorm
@@ -92,3 +89,6 @@ static/CNAME
 webpack-bundle-report
 
 static/~partytown
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
